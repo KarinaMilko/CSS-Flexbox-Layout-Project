@@ -18,4 +18,4 @@ Features:
 
 
 
-**[Demo](https://karinamilko.github.io/CSS-Flexbox-Layout-Project/)** 
+**[Demo](https://karinamilko.github.io/CSS-Flexbox-Layout-Practice/)** 
